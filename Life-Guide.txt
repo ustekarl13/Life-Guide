@@ -3,3 +3,5 @@ I'm creating a life guide document for noobies.
 I'm adding changes to the file.
 
 I did this edit on GitHub.
+
+I did another edit on GitHub but accessed it locally using git pull.
